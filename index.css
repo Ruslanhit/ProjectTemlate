@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bg-darc {
+    background-color: rgb(37, 37, 37);
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 200px;
+}
+
+
+.btn-outlin-info {
+    background-color: aquamarine;
+    border-radius: 5px;
+}
+
+.list-group-fash {
+    background-color: rgb(37, 37, 37);
+    color:rgb(255, 255, 255);
+    list-style-type: none;
+    padding: 0;
+}
+
+.list-group-itm {
+    background-color: aliceblue;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    display: flex;
+    justify-content: space-between; 
+    padding-left: 20px
+}
+
+.btn-small {
+    height: 30px;
+    width: 30px;
+    border: none;
+    font-size: 20px;
+    border-radius: 15px;
+}
+
+.btn-dunger {
+    background-color: red;
+
+}
+
+.btn-saccess {
+    background-color: green;
+}
